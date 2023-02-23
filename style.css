@@ -1,0 +1,89 @@
+p {
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
+
+h4 {
+    text-align: center
+}
+
+h3 {
+    text-align: center
+}
+
+img.displayed {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+ul {
+    font-size: math;
+    position: center;
+    display: inline-block;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+li.t:before {
+    list-style-type: none;
+    content: "•";
+    color: red;
+}
+
+ol {
+    font-size: larger;
+    position: center;
+}
+.q {
+    position: relative;
+    left: 100px;
+}
+.q cite {
+    position: relative;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 10px;
+    display: inline-block;
+}
+th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+
+div.block {
+    max-width: 900px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+div.second_half {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form {
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+
+
